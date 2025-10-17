@@ -1,10 +1,13 @@
-# Research Prompts & Results Links 2025-10-17
+# Research Prompts & Results Links
 
 This document contains all three research prompts and links to results from different AI providers.
 
 ---
 
-## Research Prompt 01
+## Research Prompt 01: Private Credit Systemic Risk Macro Transmission
+
+<details>
+<summary>View Full Prompt (click to expand)</summary>
 
 ```markdown
 # RESEARCH PROMPT #1: Private Credit Systemic Risk & Macroeconomic Transmission Mechanisms
@@ -337,6 +340,8 @@ This document contains all three research prompts and links to results from diff
 **THIS IS NOT THEORETICAL RESEARCH. THIS IS TACTICAL INTELLIGENCE FOR INVESTMENT DECISION-MAKING. EVERY FINDING MUST BE ACTIONABLE.**
 ```
 
+</details>
+
 ### Results:
 
 * **ChatGPT - GPT - 5 - Thinking**: https://chatgpt.com/share/68f2aa05-7324-8007-b01a-d4712a791014
@@ -347,7 +352,10 @@ This document contains all three research prompts and links to results from diff
 
 ---
 
-## Research Prompt 02
+## Research Prompt 02: Crypto Private Credit Interconnections Bitcoin Impact
+
+<details>
+<summary>View Full Prompt (click to expand)</summary>
 
 ```markdown
 # RESEARCH PROMPT #2: Crypto-Private Credit Interconnections & Bitcoin Price Impact Pathways
@@ -1004,6 +1012,8 @@ This document contains all three research prompts and links to results from diff
 **THIS RESEARCH DETERMINES WHETHER BITCOIN SURVIVES A PRIVATE CREDIT CRISIS. EVERY FINDING MUST BE ACTIONABLE FOR PORTFOLIO POSITIONING.**
 ```
 
+</details>
+
 ### Results:
 
 * **ChatGPT - GPT - 5 - Thinking**: https://chatgpt.com/share/68f2ab42-5498-8007-b4c1-23af4d503633
@@ -1013,7 +1023,10 @@ This document contains all three research prompts and links to results from diff
 
 ---
 
-## Research Prompt 03
+## Research Prompt 03: 2007 2008 Crisis Parallels Fed Intervention Scenarios
+
+<details>
+<summary>View Full Prompt (click to expand)</summary>
 
 ```markdown
 # RESEARCH PROMPT #3: 2007-2008 Financial Crisis Parallels & Fed Intervention Scenarios
@@ -1745,6 +1758,8 @@ Monitor **daily** for 30 days:
 
 **THIS RESEARCH DETERMINES OPTIMAL PORTFOLIO POSITIONING FOR THE NEXT 12-24 MONTHS. EVERY SCENARIO MUST BE PROBABILITY-WEIGHTED AND ACTIONABLE.**
 ```
+
+</details>
 
 ### Results:
 

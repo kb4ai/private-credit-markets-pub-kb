@@ -31,4 +31,4 @@
 
 ## Tools
 
-* [generate-research-links.sh](generate-research-links.sh) - Script to regenerate research links document
+* [RESEARCH-01-02-03-PRELIMINARY-RESULTS-LINKS.py](RESEARCH-01-02-03-PRELIMINARY-RESULTS-LINKS.py) - Python script to regenerate research links document (with collapsible prompts)
