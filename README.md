@@ -1,12 +1,12 @@
-# Private Credit Markets Public Knowledge Base
+# (WIP) Private Credit Markets Public Knowledge Base
 
-**Status:** 🚧 Work in Progress
+**Status:** 🚧 **Work in Progress**
 
-## TL;DR
+## TL;DR- (WIP)
 
 Knowledge base analyzing private credit market systemic risks, interconnections with cryptocurrency markets, and parallels to the 2007-2008 financial crisis. Includes AI-assisted research, source materials, and analysis of potential macroeconomic impacts.
 
-## Quick Navigation
+## Some of artifacts in mean time as we are WIP
 
 * **[Research Results & AI Analysis](to-triage/RESEARCH-01-02-03-PRELIMINARY-RESULTS-LINKS.md)** - Comprehensive research from multiple AI providers (ChatGPT, Claude, Grok, Perplexity)
 * **[Notes & Source Materials Index](to-triage/notes-links.md)** - Video transcripts, research notes, tweets, and analysis documents
